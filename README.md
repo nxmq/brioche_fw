@@ -1,5 +1,3 @@
-# Hello World Example
+# bRIOche FW
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Emulate the network communications performed by an FRC roboRIO on an ESP32.
